@@ -1,0 +1,1 @@
+This is a simple YouTube Clone UI built using HTML and CSS. It includes a top navbar, sidebar menu, and a video grid layout. The project focuses on clean layout design and understanding how video platforms organize content. This is only a front-end UI without JavaScript.
